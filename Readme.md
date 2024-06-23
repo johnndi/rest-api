@@ -13,11 +13,13 @@ A backend rest-api that allows user to perform (CRUD)create read update delete
 from product database
 
 running on localhost port 5000
+to start program run :"npm run start:watch"
 
 ### Tools used:
 express.
 nodemon
 dotenv
+pg
 
 ### process of retrieving data
 localhost:5000/products => retrieve data
