@@ -18,9 +18,15 @@ to start program run :"npm run start:watch"
 
 ### Tools used:
 express.
+
 nodemon
+
+
 dotenv
+
 pg
+
+postgresql =>database products table products 
 
 ### process of retrieving data
 localhost:5000/products => retrieve data
