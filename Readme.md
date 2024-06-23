@@ -29,6 +29,8 @@ pg
 postgresql =>database products table products 
 
 ### process of retrieving data
+<a href ="/copy of products.sql">getting the table<\a>
+
 localhost:5000/products => retrieve data
 localhost:5000/products/product_id => retrieve one product
 localhost:5000/products/product_id => delete a product
