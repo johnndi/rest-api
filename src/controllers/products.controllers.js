@@ -49,11 +49,11 @@ export const getallproducts = async (req, res) =>{
     };
     export const updateProduct = async (req, res) => {
       const product_id = req.params.product_id;
-      const productthumbnail = req.body;
-      const producttitle = req.body;
-      const productdescription = req.body;
-      const productcost = req.body;
-      const onoffer = req.body;
+       const { productthumbnail, 
+          producttitle ,
+          productdescription ,
+          productcost ,
+           onoffer, } = req.body;
       try{
         let updateproducts;
         if (productthumbnail) {
