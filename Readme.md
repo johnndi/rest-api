@@ -30,6 +30,9 @@ postgresql =>database products table products
 
 ### process of retrieving data
 <a href ="copy of products.sql">getting the table</a>
+1 install all tools 
+2 set up the database
+
 
 localhost:5000/products => retrieve data
 localhost:5000/products/product_id => retrieve one product
