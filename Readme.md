@@ -30,7 +30,9 @@ postgresql =>database products table products
 
 ### process of retrieving data
 <a href ="Copy of products.sql">getting the table</a>
+
 1 install all tools 
+
 2 set up the database
 
 
